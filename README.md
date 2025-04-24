@@ -71,4 +71,4 @@ Semua hasil akan dikompresi dan tersedia dalam bentuk `.zip`.
 
 ## 📜 Lisensi
 
-Proyek ini menggunakan dataset dari [Kaggle](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition).
+Proyek ini menggunakan dataset dari [Kaggle](https://www.kaggle.com/datasets/utkarshsaxenadn/flower-classification-5-classes-roselilyetc).
